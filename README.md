@@ -92,6 +92,6 @@ output/processed_data.csv
 
 ## Author
 
-Name: Your Name
-Roll Number: Your Roll Number
-Course: Your Course Name
+Name: Manya Shri Tripathi
+Roll Number: 2305710
+Course: Btech CSE
